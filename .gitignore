@@ -1,0 +1,10 @@
+_nui/node_modules/
+_nui/.vite/
+*.log
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
